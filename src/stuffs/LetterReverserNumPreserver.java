@@ -8,6 +8,7 @@ public class LetterReverserNumPreserver {
 	public static void main(String[] args) {
 
 		//reverses letters in string while maintaining position and order of non-letters
+		System.out.println("hi");
 
 		Scanner scan = new Scanner(System.in);
 		
